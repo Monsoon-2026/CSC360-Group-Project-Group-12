@@ -8,19 +8,16 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) {
-
-        Label label = new Label("Hello! JavaFX is working.");
-
+        Label label = new Label("JavaFX is working!");
         StackPane root = new StackPane(label);
+        Scene scene = new Scene(root, 400, 300);
 
-        Scene scene = new Scene(root, 600, 400);
-
-        stage.setTitle("JavaFX Browser DOM Project");
+        stage.setTitle("Phase 1 - JavaFX Setup");
         stage.setScene(scene);
         stage.show();
     }
 
     public static void main(String[] args) {
-        launch();
+        launch(args);
     }
-}  
+}
