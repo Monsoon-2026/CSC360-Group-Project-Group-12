@@ -76,6 +76,8 @@ After running the application through Maven, the JavaFX window opened successful
 
 This confirmed that the JavaFX environment was successfully configured and ready for the next phase of the project.
 
+![JavaFX Dark Theme](../images/phase1Proof.png)
+
 ## Phase 1 Status
 
 **Completed**
