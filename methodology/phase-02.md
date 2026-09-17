@@ -121,6 +121,8 @@ The application now contains a JavaFX window with a `WebView` in the center and 
 
 The interface was successfully displayed, and the buttons were added to provide controls for interacting with the webpage.
 
+![JavaFX Dark Theme](../images/phase2Proof.png)
+
 ## Phase 2 Status
 
 **Completed**
