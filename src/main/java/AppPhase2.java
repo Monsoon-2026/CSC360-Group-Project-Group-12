@@ -7,7 +7,7 @@ import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 
-public class App extends Application {
+public class AppPhase2 extends Application {
 
     @Override
     public void start(Stage stage) {
