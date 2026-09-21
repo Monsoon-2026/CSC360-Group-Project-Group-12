@@ -10,6 +10,8 @@ The main objective of the project is to demonstrate how a JavaFX application can
 
 The application will contain a JavaFX interface with a button and a browser component. The button will be used to perform changes on the HTML page, such as changing text or text color.
 
+The DOM integration, modification, and dynamic text/color changes are implemented together as part of the later phases of the project.
+
 ## Project Approach
 
 The project will be developed step-by-step:
