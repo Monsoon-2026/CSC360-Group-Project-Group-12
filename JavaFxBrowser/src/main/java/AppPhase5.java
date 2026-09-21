@@ -48,11 +48,22 @@ public class AppPhase5 extends Application {
             );
         });
 
-        changeColorButton.setOnAction(event -> {
-            webEngine.executeScript(
-                    "document.getElementById('message').style.color = 'red';"
-            );
-        });
+        String[] colors = {"red", "green", "blue", "brown", "purple", "orange"};
+int[] colorIndex = {0};
+
+changeColorButton.setOnAction(event -> {
+
+    webEngine.executeScript(
+            "document.getElementById('message').style.color = '" 
+            + colors[colorIndex[0]] + "';"
+    );
+
+    colorIndex[0]++;
+
+    if (colorIndex[0] >= colors.length) {
+        colorIndex[0] = 0;
+    }
+});
 
         resetButton.setOnAction(event -> {
             webEngine.executeScript(
