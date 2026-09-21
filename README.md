@@ -22,9 +22,11 @@ Button + WebView
         ↓
 HTML Page
         ↓
-DOM Manipulation
+JavaScript / DOM Integration
         ↓
-Text / Color Change
+DOM Modification
+        ↓
+Dynamic Text / Color Changes
 ```
 ## Technologies Used
 
