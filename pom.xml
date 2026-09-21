@@ -36,6 +36,13 @@
             <version>${javafx.version}</version>
         </dependency>
 
+        <!-- JavaFX Media -->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-media</artifactId>
+            <version>${javafx.version}</version>
+        </dependency>
+
     </dependencies>
 
 
@@ -49,7 +56,7 @@
                 <version>0.0.8</version>
 
                 <configuration>
-                    <mainClass>App</mainClass>
+                    <mainClass>AppPhase3</mainClass>
                 </configuration>
             </plugin>
 
