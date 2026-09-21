@@ -50,7 +50,7 @@ public class AppPhase5 extends Application {
 
         changeColorButton.setOnAction(event -> {
             webEngine.executeScript(
-                    "document.getElementById('message').style.color = 'blue';"
+                    "document.getElementById('message').style.color = 'red';"
             );
         });
 
