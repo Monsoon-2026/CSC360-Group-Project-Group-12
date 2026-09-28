@@ -73,6 +73,7 @@ This confirmed that the JavaFX application was able to access and interact with 
 
 ![Phase 5 Output](../images/Phase5-Proof.png)
 
+
 ## Phase 5 Status
 
 Completed
