@@ -55,8 +55,9 @@ The original HTML text:
 
 ```text
 Hello from HTML
-
+```
 was changed to:
+```
 Text changed by JavaFX
 
 ```
