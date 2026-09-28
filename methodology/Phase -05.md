@@ -57,19 +57,19 @@ HTML DOM Element
 
 ## Result
 
-The JavaFX application successfully communicated with the HTML webpage through JavaScript.
+The JavaFX application successfully communicated with the HTML webpage loaded inside the `WebView`.
 
-When the Change Text button was clicked, the JavaScript code executed through WebEngine accessed the HTML DOM element and changed its content.
+The `Change Text` button successfully executed JavaScript using `WebEngine.executeScript()` and accessed the HTML element using its `id`.
 
-The application successfully demonstrated the basic communication between:
+When the button was clicked, the original text:
 
-JavaFX
-WebView
-WebEngine
-JavaScript
-HTML DOM
+`Hello from HTML`
 
-This established the foundation for further DOM modification and dynamic webpage changes in the following phases.
+was changed to:
+
+`Text changed by JavaFX`
+
+This confirmed that the JavaFX application was able to access and interact with the HTML DOM through JavaScript.
 
 ## Phase 5 Status
 
