@@ -69,7 +69,7 @@ The `Change Text` button executed JavaScript through `WebEngine.executeScript()`
 
 This demonstrated that the JavaFX application can dynamically modify webpage content through JavaScript and the HTML DOM.
 
-![JavaFX DOM Integration](../images/Phase5-Proof.png)
+![JavaFX DOM Integration](../images/Phase6-Proof.png)
 
 ## Phase 6 Status
 
