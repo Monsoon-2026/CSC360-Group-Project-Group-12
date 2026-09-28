@@ -71,7 +71,7 @@ was changed to:
 
 This confirmed that the JavaFX application was able to access and interact with the HTML DOM through JavaScript.
 
-![JavaFX DOM Integration](images/Phase5-Prrof.png)
+![JavaFX DOM Integration](images/Phase5-Proof.png)
 
 ## Phase 5 Status
 
