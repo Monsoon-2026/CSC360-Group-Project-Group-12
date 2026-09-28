@@ -45,6 +45,8 @@ HTML DOM Element
       ↓
 DOM Content Modified
 
+```
+
 ## Testing
 
 The DOM modification was tested by running the JavaFX application and clicking the `Change Text` button.
@@ -57,6 +59,7 @@ Hello from HTML
 was changed to:
 Text changed by JavaFX
 
+```
 ## Result
 
 The HTML DOM element was successfully modified from the JavaFX application.
