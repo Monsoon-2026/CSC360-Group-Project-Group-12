@@ -34,4 +34,30 @@
 - Fix errors
 - Prepare the final project
 
+### Project Development Flow
 
+**Phase 1 — JavaFX Setup**
+
+↓
+
+**Phase 2 — Introduction of WebView**
+
+↓
+
+**Phase 3 — Loading the HTML Webpage**
+
+↓
+
+**Phase 4 — Designing the Layout with WebView and JavaFX Buttons**
+
+↓
+
+**Phase 5 — Accessing the DOM using WebEngine and JavaScript**
+
+↓
+
+**Phase 6 — Connecting JavaFX Buttons with DOM Modification**
+
+↓
+
+**Phase 7 — Dynamically Changing Text and Color**
