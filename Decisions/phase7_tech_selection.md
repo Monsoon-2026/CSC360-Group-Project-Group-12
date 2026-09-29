@@ -2,12 +2,17 @@
 
 This phase extended the DOM modification functionality by allowing the user to dynamically change the text and color of an HTML element.
 
-Choice	Why We Chose It	Why Not the Alternative
+## Choice	Why We Chose It	Why Not the Alternative
+
 innerText	Provides a simple way to change the displayed text of the HTML element.	Reloading the complete webpage would be unnecessary for a simple text change.
+
 CSS style.color	Allows the text color to be changed directly through the DOM.	Changing the complete HTML/CSS page would be unnecessary for a single color change.
+
 Color array	Provides multiple predefined colors that can be selected sequentially.	Using only one fixed color would not demonstrate repeated dynamic changes.
+
 Reset button	Allows the webpage to return to its original text and color.	Without a reset option, users would have to reload the entire webpage.
-Design Approach
+
+## Design Approach
 
 Two main DOM operations were implemented.
 
