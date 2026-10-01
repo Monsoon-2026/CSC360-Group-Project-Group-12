@@ -96,6 +96,8 @@ The `Reset Page` button successfully restored the original text and color.
 
 This demonstrated complete interaction between the JavaFX interface and the HTML webpage through DOM manipulation.
 
+![Phase 7 Color Changes](../images/Phase7-Proof.png)
+
 ## Phase 7 Status
 
 **Completed**
