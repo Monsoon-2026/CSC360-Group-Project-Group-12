@@ -41,9 +41,7 @@ Dynamic Text / Color Changes
 
 ## Expected Outcome
 
-| Before any click | After "Change Text" | After "Change Color" |
-|---|---|---|
-| ![Before](images/before.svg) | ![After Text Change](images/after-text.svg) | ![After Color Change](images/after-color.svg) |
+![Project Demo](images/project-demo.gif)
 
 The final application will allow a JavaFX button to interact with the browser content and make changes to the HTML DOM dynamically.
 
