@@ -45,5 +45,18 @@ Dynamic Text / Color Changes
 
 The final application will allow a JavaFX button to interact with the browser content and make changes to the HTML DOM dynamically. 
 
+## ▶️ How to Run
+
+Make sure Java 21 and Maven are installed.
+
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Open the `JavaFxBrowser` folder.
+4. Open the terminal in the project directory.
+5. Run the following command:
+
+```bash
+mvn clean javafx:run
+
 
 
